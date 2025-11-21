@@ -104,3 +104,45 @@ project/
 | COUNT             | NUMBER                    | Yes       | 0                | 7    | 조회수                           |
 | CREATE_DATE       | DATE                      | No        | SYSDATE          | 8    | 작성일                           |
 | STATUS            | VARCHAR2(1 BYTE)          | Yes       | 'Y'              | 9    | 상태값 (Y: 활성 / N: 비활성)     |
+
+
+### 📸 대표 예시 화면
+
+#### 1. 메인 페이지
+프로젝트의 첫 화면으로 게시판 목록과 로그인 기능 제공
+
+![메인 페이지](./images/main.PNG)
+
+#### 2. 회원가입
+회원가입 시 유효성 검사 및 ID 중복 체크 기능 제공
+
+![회원가입](./images/join.PNG)
+
+#### 3. 마이페이지
+회원 정보 조회 및 수정, 비밀번호 변경, 회원 탈퇴 기능
+
+![마이페이지](./images/mypage.png)
+
+#### 4. 일반 게시판
+
+**게시글 작성**
+
+![게시글 작성](./images/enrollfom.PNG)
+
+**게시글 상세보기 (댓글 기능 포함)**
+
+![게시글 상세](./images/detail.PNG)
+
+**게시글 수정**
+
+![게시글 수정](./images/update.PNG)
+
+#### 5. 사진 게시판
+
+**사진 게시판 목록 (썸네일 방식)**
+
+![사진 게시판](./images/picture.PNG)
+
+**사진 게시글 상세**
+
+![사진 게시글 상세](./images/pictureDetail.PNG)
