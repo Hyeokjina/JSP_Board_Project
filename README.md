@@ -57,7 +57,7 @@ project/
  │   ├── resources/                  # CSS, JS, 이미지
  │   └── index.jsp                   # 메인 페이지
  └── README.md
-<pre>
+</pre>
 ## 🌟 주요 기능 (Key Features)
 - 회원가입 / 로그인 / 로그아웃 / 댓글 작성 기능
 - 게시글 등록, 조회, 수정, 삭제 (CRUD)
