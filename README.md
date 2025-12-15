@@ -1,7 +1,7 @@
 # 🚀 JSP 커뮤니티
 > 회원 관리와 게시판 기능을 갖춘 JSP 기반 웹 애플리케이션만들기
 > 
-> 해당 주소는 jsp작업 이후 mybtis를 사용해 최적화하여 게시판을 만들었다.
+해당 주소는 jsp작업 이후 mybtis를 사용해 최적화하여 게시판을 만들었다.
 ([https://github.com/Hyeokjina/JSP_Board_Project-mybatis-](https://github.com/Hyeokjina/JSP_Board_Project-mybatis-))
 ## 📘 개요 (Overview)
 - 프로젝트 목적과 주요 기능을 간단히 설명
